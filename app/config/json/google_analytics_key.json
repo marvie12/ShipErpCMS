@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "summitmedia-com-ph",
+  "private_key_id": "a6922f50e5e83aca681bc18e377625830521215f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsUQ7oilDN0hNu\nQ5WuRT1FLNHFFuwPquYgYfJDYFExlgy5LWLJyhMqdMj9A4KBoXTerrnHmu+UmP+k\nqLDcR2NGoIGoOYfo9kYg97wLlv0CISSjDK96XO5oogqar2rq/VeHd9uVlr92VKGT\n2PvwkswN7c6qhv7mApTyuiDxDXodq1J8zdYW0JN6uO6EgARgl3ZrclRMoVjcQveY\ntem4NLdJRaQHXS6iQiQCaFtlKHdn93fHtpWdqQxMe+eaLAnpTWGEliq0sdn4+qZ9\nqK+qHGz4/rbsGbssJIGPaq7icBvcGptVJmUW0TukOpRZr1kSqs/5nTwzlCNhM+PJ\ni8jeDppHAgMBAAECggEAB4m78UuMQ8y1L1MDH8Dgp1r2XDznrgQQ8T/Z7nQusj5m\ny/GQZtS1+qP8OpXT71kTuPSoNyoUc/ecmQkM+wcNTBcB100Gss66oMgllR42AVtX\nqwYHQSOU4Oovfds/WXokZeCheURDTqAVlSCCyzuWdAitzGfIsGFSrSrAkAQdRPQ1\nL2RGPq6OEhnJGIrXgj5zUByZ60WfZsfb7lTVzLiQ2K645TS/jyKxb/FjlJGkZnSY\nYigeJ9a2UpaT7PEPAAfxeTw6pYkg25BihOt8qdd7ORuK0NottFHhlwt9ssk5/owj\nxSHh1vKhPjnXmr/YAFld138bOwsS+YVrxfHT5w/jYQKBgQDx5AcOrVcryQJPukiP\nWRlYHPh/hFjFxTSOt4sWq9LcrmgSKRNDudO1Hw1JrBbPwbY0WPI32WW6GK1CQlL1\nE0yLzI6YqsiRi/zk3MkDRzp+/Ado/NkbCTa0Tv477pLFDR48uS1C06oGv7m/rh5N\nM8eWBRmrZXPUpg3sxkagXSImJwKBgQC2XiIJxJJ5YtQTf//mGzYPLar/ZLQ6jP86\n218Mvxwyzi80BsvckUU/0WQn8RmubVSPF+chl7eMbwFgYXyduOegwgMuGe2CJmbU\nO1beBgq818iAgpAUW/yTQv5ARcXwKNkylQOGvwapNgv1tq6UkbYB4l3Hwj3znFAX\ngjsm2ume4QKBgHY1ZEmE5lOscKe7tlfvR9ZqmfnfGG7Vt6CDC8Kxh2N3C77MOfDf\n8BjUKu803RT8amlcikpGwFLYWltGBDpmCwNKnOj4lPmjupuxVb53YZvK2GgzIHn4\n37Xv4IgzR6Bqj7tHF1pQDAguS7zjf0VlJ4UlyuyasKdb2vQ51SvrN5QDAoGBAJqs\nsk/4kocz5E35tXBUSgCLqknc/uPeLKed4jssaF1K9Uw6K3QTHlnnXfxmiHKhtiN7\nkYSzanFIwTEe3hPj/Uki5JGYWhKWQYbmIWJEW50Zo6wjkNJDxrCcFIss4poz+yvk\nqU4C/UJNXc10uRO3llh4xzOjMupI/MFDqqnk6FrhAoGAeMbn2N3FD1a7lvYpbQrB\n2VUEvfKhfhFeIjADOqtWB921Y4RopucEpmhcPunSByuSN72NY8FOXXAJX9/Hp2b0\n5YYxa1lm2pszCsNjo83GelgbSw+85LJtoxPekNKadMW90T6jxHVDU7mwm21Qhi1d\nix5Shafu24LvK+5Omj53we0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "data-warehouse-testing@summitmedia-com-ph.iam.gserviceaccount.com",
+  "client_id": "108795648928681654615",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/data-warehouse-testing%40summitmedia-com-ph.iam.gserviceaccount.com"
+}
