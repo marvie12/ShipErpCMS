@@ -10,8 +10,8 @@
 		<script src="{{ url() }}/bower_components/jquery/dist/jquery.min.js"></script>
   	    <script type="text/javascript" src="{{ url() }}/js/serializeObject.js"></script>
 		
-		<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.1.2/dist/sweetalert2.min.js"></script>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.1.2/dist/sweetalert2.min.css">
+		<script src="{{ url() }}/js/sweetalert2.min.js"></script>
+        <link rel="stylesheet" href="{{ url() }}/css/sweetalert2.min.css">
 
 		@yield('header.includes')
 
