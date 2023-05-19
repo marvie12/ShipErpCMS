@@ -29,3 +29,6 @@ Make sure you have the following software installed on your machine:
 ## App URL
 
 http://local.cms.shiperp.com
+
+Username: admin
+Password: admin1234
