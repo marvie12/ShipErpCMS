@@ -25,3 +25,7 @@ Make sure you have the following software installed on your machine:
    ```
 
 3. Import Database using `database_schema` file from root folder.
+
+## App URL
+
+http://local.cms.shiperp.com
