@@ -101,7 +101,7 @@
 								success: function(originalRequest){
 									if(originalRequest=='1'){
 										Swal.fire({
-											title: 'Record deleted?',
+											title: 'Record successfully deleted',
 											text: '',
 											icon: 'success',
 											showConfirmButton: false

@@ -1,0 +1,32 @@
+===Database ship_erp
+
+CREATE DATABASE ship_erp;
+
+== Table structure for table tbl_adminusers
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|int(11)|No|
+|**username**|varchar(30)|No|
+|password|varchar(255)|Yes|NULL
+|name|varchar(100)|Yes|NULL
+|userid|varchar(32)|Yes|NULL
+|userlevel|tinyint(1)|No|0
+|email|varchar(50)|Yes|NULL
+|access_token|varchar(255)|No|
+|remember_token|varchar(255)|Yes|NULL
+|created_at|int(11)|Yes|NULL
+|updated_at|int(11)|Yes|NULL
+== Dumping data for table tbl_adminusers
+
+|1|admin|$2y$10$PitzeF8hh.eYoZVGg.s4C.lP6Vy9L0WCM1q.6XG4HfBLZhuAkyoDS|Administrator|NULL|0| |8U4JvZkgvRGKSos3q4sxjPgT7IbnPNaO98BNHkfU3ZYwTkmEY3|8GltPDYgKkL2unXHtj2PTUwQLgCiVwc8xcunQKHUeUlgFNsqHDYbDzyrhNSP|1684457407|1684459996
+== Table structure for table tbl_provider
+
+|------
+|Column|Type|Null|Default
+|------
+|//**provider_id**//|int(11)|No|
+|name|text|No|
+|url|longtext|No|
+== Dumping data for table tbl_provider

@@ -19,7 +19,7 @@
 	    <div class="large-6 columns">
 	        <div class="row collapse right">
 	            <a href="/provider" class="small button">Go back</a>
-	            <a href="javascript:void(0)" onclick="$('form').trigger('submit')" class="small button success provider_save">Save</a>
+	            <a href="javascript:void(0)" class="small button success provider_save">Save</a>
 	        </div>
 
 	    </div>
