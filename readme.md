@@ -31,4 +31,5 @@ Make sure you have the following software installed on your machine:
 http://local.cms.shiperp.com
 
 Username: admin
+
 Password: admin1234
